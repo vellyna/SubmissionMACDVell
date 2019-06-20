@@ -27,7 +27,7 @@ Hello WorldHello World
             <input type="submit" name="load_data" value="Load Data" />
         </form>
         <?php
-            $host = "submissionappservervell";
+            $host = "https://submissionwebappvell.azurewebsites.net/";
             $user = "vellyna";
             $pass = "DicodingVell15";
             $db = "submissionappservervelldb";
