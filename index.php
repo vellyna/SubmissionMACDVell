@@ -26,7 +26,7 @@
             <input type="submit" name="load_data" value="Load Data" />
         </form>
         <?php
-            $host = "submissionwebappvell.azurewebsites.net";
+            $host = "submissionappservervell.database.windows.net";
             $user = "vellyna";
             $pass = "DicodingVell15";
             $db = "submissionappservervelldb";
