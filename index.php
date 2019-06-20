@@ -1,4 +1,3 @@
-Hello WorldHello World
 <html>
     <head>
         <Title>Registration Form</Title>
@@ -27,7 +26,7 @@ Hello WorldHello World
             <input type="submit" name="load_data" value="Load Data" />
         </form>
         <?php
-            $host = "https://submissionwebappvell.azurewebsites.net/";
+            $host = "submissionwebappvell.azurewebsites.net";
             $user = "vellyna";
             $pass = "DicodingVell15";
             $db = "submissionappservervelldb";
